@@ -192,5 +192,3 @@ while True:  # Aqui cada função vai ser chamada dependendo do que é desejado.
         break
     else:
         print('\033[31mERRO: opção inválida. Tente novamente!\033[m')  # Caso seja digitado um número fora do range.
-
-    """Nessa chamada 4 e 5 eu precisei fazer desse jeito, pois quando eu chamada a 5 ela retornava o valor da 4"""
