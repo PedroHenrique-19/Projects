@@ -1,7 +1,4 @@
 # Gestão de estoque
-""" obs: esses tipos de formatação para deixar o código mais bonito e essa maneira de criar arquivo
- eu vi no canal do curso em vídeo, enquanto estudava sobre os assuntos."""
-
 
 def verificar_existencia():  # Verifica se existe um aquivo, se não retorna false.
     try:
